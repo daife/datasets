@@ -8,7 +8,7 @@ test:  # 测试集图像相对路径（如果有）
 
 # 类别
 nc: 4  # 类别数量
-names: ['pinkL', 'pinkM', 'pinkS','yellowball']  # 类别名称
+names: ['BLUE', 'RED', 'YELLOW','GREEN']  # 类别名称
 
 # 数据增强参数 - 针对小数据集的增强配置
 augment:
